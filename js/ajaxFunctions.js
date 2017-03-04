@@ -3,7 +3,7 @@
  */
 function loadLogin() {
     $.ajax({
-        url: 'user/register',
+        url: 'user/login',
         success: function(result){
             $('#content').html(result);
         }});
