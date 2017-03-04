@@ -37,7 +37,7 @@
                         <a class="nav-link" href="controller/controllerMain.php">Home<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="controller/controllerLogin.php">Features</a>
+                        <a class="nav-link" href="view/viewLogin.php">Features</a>
                     </li>
                 </ul>
                 <!--Navbar icons-->
