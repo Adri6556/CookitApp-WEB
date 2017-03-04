@@ -6,6 +6,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>CookitApp</title>
         <link rel='icon' href='img/favicon.ico' type='image/x-icon'>
+        <script src='js/ajaxFunctions.js'></script>
         <!-- Font -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
         <!-- Principal CSS -->
