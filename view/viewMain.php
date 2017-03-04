@@ -32,7 +32,7 @@
                                     <a class="nav-link" href="#a">Features</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href=loadLogin()>Login</a>
+                                    <a class="nav-link" href="javascript:;" onclick="loadLogin()">Login</a>
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav nav-flex-icons ml-auto">
