@@ -68,9 +68,7 @@
                         <div class="description">
                             <h2 class="h2-responsive wow fadeInLeft">Compra la APP joputa!</h2>
                             <?php
-                                foreach ($a as $b) {
-                                    echo $a['First_Name'];
-                            }
+                                echo "Hola!";
                             ?>
                             <hr class="hr-dark">
                             <p class="wow fadeInLeft" data-wow-delay="0.4s">En la HackUPC hay muchos pringados. Para más información visite este link y haga una donación para acabar con su terrible enfermedad:<a href="http://www.rdsbzlabs.com/"> Ayudales!</a></p>
