@@ -24,10 +24,10 @@
                     <div class="collapse navbar-collapse" id="navbarNav1">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="controller/controllerMain.php">Home<span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="#b">Home<span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="view/viewLogin.php">Features</a>
+                                <a class="nav-link" href="#a">Features</a>
                             </li>
                         </ul>
                         <ul class="nav navbar-nav nav-flex-icons ml-auto">
@@ -44,31 +44,31 @@
                     </div>
                 </div>
             </nav>
-        </header>
-        <div class="view hm-black-strong">
-            <div class="full-bg-img flex-center">
-                <div class="container">
-                    <div class="row" id="home">
-                        <div class="col-lg-6">
-                            <div class="description">
-                                <h2 class="h2-responsive wow fadeInLeft">Compra la APP joputa!</h2>
-                                <hr class="hr-dark">
-                                <p class="wow fadeInLeft" data-wow-delay="0.4s">En la HackUPC hay muchos pringados. Para más información visite este link y haga una donación para acabar con su terrible enfermedad:<a href="http://www.rdsbzlabs.com/"> Ayudales!</a></p>
-                                <br>
-                                <a class="btn btn-outline-white btn-lg wow fadeInLeft" data-wow-delay="0.7s">Learn more</a>
-                                <a class="btn btn-outline-white btn-lg wow fadeInLeft" data-wow-delay="0.7s">Download
-                                    <i class="fa fa-android left right" aria-hidden="true"></i>
-                                    <i class="fa fa-apple left" aria-hidden="true"></i>
-                                    <i class="fa fa-windows" aria-hidden="true"></i>
-                                </a>
+            <div class="view hm-black-strong">
+                <div class="full-bg-img flex-center">
+                    <div class="container">
+                        <div class="row" id="home">
+                            <div class="col-lg-6">
+                                <div class="description">
+                                    <h2 class="h2-responsive wow fadeInLeft">Compra la APP joputa!</h2>
+                                    <hr class="hr-dark">
+                                    <p class="wow fadeInLeft" data-wow-delay="0.4s">En la HackUPC hay muchos pringados. Para más información visite este link y haga una donación para acabar con su terrible enfermedad:<a href="http://www.rdsbzlabs.com/"> Ayudales!</a></p>
+                                    <br>
+                                    <a class="btn btn-outline-white btn-lg wow fadeInLeft" data-wow-delay="0.7s">Learn more</a>
+                                    <a class="btn btn-outline-white btn-lg wow fadeInLeft" data-wow-delay="0.7s">Download
+                                        <i class="fa fa-android left right" aria-hidden="true"></i>
+                                        <i class="fa fa-apple left" aria-hidden="true"></i>
+                                        <i class="fa fa-windows" aria-hidden="true"></i>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-lg-offset-1 flex-center">
-                            <img src="img/mobile-home.png" alt="" class="img-fluid wow fadeInRight" id="app-mockup">
+                            <div class="col-lg-4 col-lg-offset-1 flex-center">
+                                <img src="img/mobile-home.png" alt="" class="img-fluid wow fadeInRight" id="app-mockup">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </header>
     </body>
 </html>
