@@ -12,10 +12,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
 
     <!-- Bootstrap core CSS -->
-    <link href="css/css.css" rel="stylesheet">
+    <link href="css.css" rel="stylesheet">
 
     <!-- Material Design Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="bootstrap.css" rel="stylesheet">
 
 </head>
 
@@ -81,7 +81,7 @@
                     <!--Second column-->
                     <div class="col-lg-4 col-lg-offset-1 flex-center">
                         <!--Form-->
-                        <img src="img/mobile-home.png" alt="" class="img-fluid wow fadeInRight" id="app-mockup">
+                        <img src="mobile-home.png" alt="" class="img-fluid wow fadeInRight" id="app-mockup">
                         <!--/.Form-->
                     </div>
                     <!--/Second column-->
